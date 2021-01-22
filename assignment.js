@@ -62,7 +62,7 @@
                             }
                      else{
                             extraDay=day-20;
-                            Total=(10*100)+(extraDay*80)+(extraDay*50);
+                            Total=(10*100)+(10*80)+(extraDay*50);
                         return Total;
                         }
 
